@@ -1,0 +1,32 @@
+.name{
+    color: #FFFCCC;
+    font-size: 24px;
+
+}
+
+.txt{
+    color: #FFFFFC;
+    font-size: 16px;
+}
+
+li::marker{
+    color: white;
+}
+
+.others{
+    text-decoration: none;
+    color: white;
+}
+
+.linkss{
+    color: white;
+}
+
+.cinfo{
+    color: wheat;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}

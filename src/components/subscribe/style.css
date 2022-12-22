@@ -1,0 +1,12 @@
+.inn{
+    background: transparent;
+}
+.sub{
+    display: flex;
+    flex-direction: row;
+}
+.sup{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

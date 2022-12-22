@@ -1,0 +1,20 @@
+.about{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    height: 60vh;
+    width: 35vw;
+    justify-content: space-between;
+}
+
+.lo{
+    color: #FFFFFC;
+    
+}
+
+

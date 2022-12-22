@@ -1,0 +1,12 @@
+.icnum{
+    color: #FFCE6D;
+}
+
+.icdis{
+    color: #FFFFFC;
+}
+
+.infocard{
+    display: flex;
+    align-items: center;
+}

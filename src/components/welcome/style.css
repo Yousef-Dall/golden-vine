@@ -1,0 +1,19 @@
+.wel{
+    color: #FFFCCC;
+    font-size: 55px;
+    text-align: center;
+}
+.exp{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+
+.welcome{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
